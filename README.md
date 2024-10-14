@@ -7,6 +7,7 @@ Topics of Github Tutorial
 # Git and Shell Command Reference
 
 ### `pwd`
+```bash
 Displays the present working directory.
 
 ### `ls -a`
