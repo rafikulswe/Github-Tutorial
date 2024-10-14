@@ -9,15 +9,6 @@ Topics of Github Tutorial
 ### `pwd`
 Displays the present working directory.
 
-```html
-<div>
-  <code>pwd</code>
-  <button onclick="navigator.clipboard.writeText('pwd')">Copy</button>
-</div>
-
-### `pwd`
-Displays the present working directory.
-
 ### `ls -a`
 Lists all files, including hidden ones.
 
